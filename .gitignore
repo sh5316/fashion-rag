@@ -21,6 +21,8 @@ env/
 chroma/
 *.sqlite3
 .chroma/
+img_vdb/
+fashion_dataset/
 
 # OS / editor
 .DS_Store
